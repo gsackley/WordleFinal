@@ -4,7 +4,7 @@ import atexit
 import time
 import tkinter as tk
 
-# Constants
+# Constants 
 
 N_ROWS = 6			# Number of rows
 N_COLS = 5			# Number of columns
